@@ -11,19 +11,19 @@
         <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
         <parent_macroponent_composition_element_id/>
         <route_type>home</route_type>
-        <screen_type display_value="Home">c9882d8f47b3021065bd9dbe316d434e</screen_type>
+        <screen_type display_value="Home">8c7bde4b47bb021065bd9dbe316d4372</screen_type>
         <sys_class_name>sys_ux_app_route</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-08-08 05:41:33</sys_created_on>
-        <sys_id>01882d8f47b3021065bd9dbe316d4351</sys_id>
+        <sys_created_on>2024-08-08 09:24:02</sys_created_on>
+        <sys_id>487bde4b47bb021065bd9dbe316d4375</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Home</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_ux_app_route_01882d8f47b3021065bd9dbe316d4351</sys_update_name>
+        <sys_update_name>sys_ux_app_route_487bde4b47bb021065bd9dbe316d4375</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-08-08 05:41:33</sys_updated_on>
+        <sys_updated_on>2024-08-08 09:24:02</sys_updated_on>
     </sys_ux_app_route>
-    <sys_translated_text action="delete_multiple" query="documentkey=01882d8f47b3021065bd9dbe316d4351"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=487bde4b47bb021065bd9dbe316d4375"/>
 </record_update>
